@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=180&section=header&text=Abhishek%20Dubasi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mechatronics%20Enthusiast&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=180&section=header&text=Abhishek&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Mechatronics%20Enthusiast&descSize=18&descAlignY=52"/>
 
 <!-- Social Badges -->
 <p>
